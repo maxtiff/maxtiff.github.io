@@ -7,7 +7,7 @@ Passion for continuous learning, computing, data and humanity. exceptional write
 ### 2013-2015 (Current)
 ### Economic Data Associate
 ### Research Division, Federal Reserve Bank
-* Presented to the Library of Congress on the difficulty of stewarding time   series data in July of 2013.
+>* Presented to the Library of Congress on the difficulty of stewarding time   series data in July of 2013.
 * Completed Johns Hopkins Data Science Specialization with distinctions in 2014. * Self-taught in composing advanced data-analysis programs.
 * Learned programming languages such as R, Javascript, PHP, Python, and Ruby. Utilized such skills to automate data downloading, cleaning, statistical modeling tasks.
 * Built web-based applications for statistical presentation.
@@ -21,7 +21,7 @@ Passion for continuous learning, computing, data and humanity. exceptional write
 ### 2011-2013
 ### Problem Analyst
 ### Financial and Risk Division, Thomson Reuters
-* Compiled Best Practices and built SharePoint library for Problem Analysts assigned to IDN Financial Data Infrastructure.
+>* Compiled Best Practices and built SharePoint library for Problem Analysts assigned to IDN Financial Data Infrastructure.
 * Initiated weekly report, that utilized VBA for automation, on IDN network failures in order to detect potential service problems.
 * Detected, and determined the root cause of issues that would interrupt data services for investment banks.
 * Worked with teams from England, Central Europe, South East Asia, and China.
@@ -30,7 +30,7 @@ Passion for continuous learning, computing, data and humanity. exceptional write
 ### 2010-2011
 ### Graduate Research Assistant
 ### Finance and Economics Department, Southern Illinois University
-* Researched financial data for assigned professor.
+>* Researched financial data for assigned professor.
 * Conducted equity asset valuations for financial papers.
 * Graded student homework and proctored exams for professor as needed.
 
