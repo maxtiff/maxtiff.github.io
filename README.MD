@@ -1,6 +1,7 @@
 # Travis May
 Saint Louis, Missouri | travismay@icloud.com
-Passion for continuous learning, computing, data and humanity. exceptional writer
+
+_Passion for continuous learning, computing, data and humanity. Exceptional writer._
 
 ## Experience
 
@@ -8,8 +9,8 @@ Passion for continuous learning, computing, data and humanity. exceptional write
 ### Economic Data Associate
 ### Research Division, Federal Reserve Bank
 >* Presented to the Library of Congress on the difficulty of stewarding time   series data in July of 2013.
-* Completed Johns Hopkins Data Science Specialization with distinctions in 2014. * Self-taught in composing advanced data-analysis programs.
-* Learned programming languages such as R, Javascript, PHP, Python, and Ruby. Utilized such skills to automate data downloading, cleaning, statistical modeling tasks.
+* Completed Johns Hopkins Data Science Specialization with distinctions in 2014.
+* Learned programming languages such as R, Javascript, PHP, Python, and Ruby. Utilized such skills to automate data downloading and cleaning, and advanced statistical modeling tasks.
 * Built web-based applications for statistical presentation.
 * Became familiar with functional and object oriented programming paradigms as well as different web frameworks and environments.
 * Composed algorithm for detecting errors and novelties in time-series data.
