@@ -1,5 +1,5 @@
 # Travis May
->Saint Louis, Missouri | travismay@icloud.com
+Saint Louis, Missouri | travismay@icloud.com
 Passion for continuous learning, computing, data and humanity. exceptional writer
 ===
 ## Experience
@@ -37,9 +37,9 @@ Passion for continuous learning, computing, data and humanity. exceptional write
 ## Education
 
 ### M.S., Finance and Economics
-### Southern Illinois University, Edwardsville, IL
-### Cum Laude
+#### Southern Illinois University, Edwardsville, IL
+##### Cum Laude
 
 ### B.A., Economics
-### University of Missouri
-### Dean's List 2004, 2005
+#### University of Missouri
+##### Dean's List 2004, 2005
