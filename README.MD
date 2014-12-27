@@ -2,7 +2,6 @@
 >Saint Louis, Missouri | travismay@icloud.com
 Passion for continuous learning, computing, data and humanity. exceptional writer
 ===
-
 ## Experience
 ===
 ### 2013-2015 (Current)
@@ -18,7 +17,6 @@ Passion for continuous learning, computing, data and humanity. exceptional write
 * Capable of running statistical models from within databases.
 * Familiarized with Cloud-based High Performance Computing environments.
 * Wrote, edited and advised on press releases and public announcements about additions and improvements to the globally renowned FRED economic database.
-
 ===
 ### 2011-2013
 ### Problem Analyst
@@ -28,7 +26,6 @@ Passion for continuous learning, computing, data and humanity. exceptional write
 * Detected, and determined the root cause of issues that would interrupt data services for investment banks.
 * Worked with teams from England, Central Europe, South East Asia, and China.
 * Worked under intense, weekly deadlines.
-
 ===
 ### 2010-2011
 ### Graduate Research Assistant
@@ -36,10 +33,9 @@ Passion for continuous learning, computing, data and humanity. exceptional write
 * Researched financial data for assigned professor.
 * Conducted equity asset valuations for financial papers.
 * Graded student homework and proctored exams for professor as needed.
-
 ===
 ## Education
-===
+
 ### M.S., Finance and Economics
 ### Southern Illinois University, Edwardsville, IL
 ### Cum Laude
