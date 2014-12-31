@@ -1,8 +1,6 @@
 # Travis May
 Saint Louis, Missouri | travismay@icloud.com
 
-_Passion for continuous learning, computing, data and humanity. Exceptional writer._
-
 ## Experience
 
 ### 2013-2015 (Current)
