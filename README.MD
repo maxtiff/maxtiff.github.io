@@ -3,9 +3,9 @@ Saint Louis, Missouri | travismay@icloud.com
 
 ## Experience
 
-### 2013-2015 (Current)
+#### 2013-2015 (Current)
 ### Economic Data Associate
-### Research Division, Federal Reserve Bank
+#### Research Division, Federal Reserve Bank
 >* Presented to the Library of Congress on the difficulty of stewarding time   series data in July of 2013.
 * Completed Johns Hopkins Data Science Specialization with distinctions in 2014.
 * Learned programming languages such as R, Javascript, PHP, Python, and Ruby. Utilized such skills to automate data downloading and cleaning, and advanced statistical modeling tasks.
@@ -17,18 +17,18 @@ Saint Louis, Missouri | travismay@icloud.com
 * Familiarized with Cloud-based High Performance Computing environments.
 * Wrote, edited and advised on press releases and public announcements about additions and improvements to the globally renowned FRED economic database.
 
-### 2011-2013
+#### 2011-2013
 ### Problem Analyst
-### Financial and Risk Division, Thomson Reuters
+#### Financial and Risk Division, Thomson Reuters
 >* Compiled Best Practices and built SharePoint library for Problem Analysts assigned to IDN Financial Data Infrastructure.
 * Initiated weekly report, that utilized VBA for automation, on IDN network failures in order to detect potential service problems.
 * Detected, and determined the root cause of issues that would interrupt data services for investment banks.
 * Worked with teams from England, Central Europe, South East Asia, and China.
 * Worked under intense, weekly deadlines.
 
-### 2010-2011
+#### 2010-2011
 ### Graduate Research Assistant
-### Finance and Economics Department, Southern Illinois University
+#### Finance and Economics Department, Southern Illinois University
 >* Researched financial data for assigned professor.
 * Conducted equity asset valuations for financial papers.
 * Graded student homework and proctored exams for professor as needed.
